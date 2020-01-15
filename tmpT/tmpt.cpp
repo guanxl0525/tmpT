@@ -8,9 +8,13 @@ tmpT::tmpT(QWidget *parent)
 	// tmp  ddd
 }
 
+/// haode
+
 
 
 tmpT::~tmpT()
 {
+
+
 
 }
