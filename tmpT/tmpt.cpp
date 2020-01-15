@@ -5,7 +5,7 @@ tmpT::tmpT(QWidget *parent)
 {
 	ui.setupUi(this);
 
-	// tmp
+	// tmp  ddd
 }
 
 
