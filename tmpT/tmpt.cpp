@@ -14,3 +14,8 @@ tmpT::~tmpT()
 {
 
 }
+
+void tmpT::setGUI()
+{
+	// good
+}
