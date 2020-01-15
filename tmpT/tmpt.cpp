@@ -6,6 +6,10 @@ tmpT::tmpT(QWidget *parent)
 	ui.setupUi(this);
 
 	// tmp  ddd
+
+	/*
+		这是一个美丽的冬天。
+	*/
 }
 
 
