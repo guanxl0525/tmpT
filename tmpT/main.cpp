@@ -7,4 +7,6 @@ int main(int argc, char *argv[])
 	tmpT w;
 	w.show();
 	return a.exec();
+
+	// guan
 }
