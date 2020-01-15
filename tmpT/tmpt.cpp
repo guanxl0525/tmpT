@@ -13,9 +13,8 @@ tmpT::tmpT(QWidget *parent)
 tmpT::~tmpT()
 {
 
-}
+	// guanxl
 
-void tmpT::setGUI()
-{
-	// good
+
+	// haode
 }
