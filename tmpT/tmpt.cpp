@@ -13,4 +13,6 @@ tmpT::tmpT(QWidget *parent)
 tmpT::~tmpT()
 {
 
+	// guanxl
+
 }
