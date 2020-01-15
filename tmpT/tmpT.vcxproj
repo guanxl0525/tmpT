@@ -76,6 +76,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Device.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="moc_tmpt.cpp" />
     <ClCompile Include="qrc_tmpt.cpp">
@@ -111,6 +112,7 @@
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Device.h" />
     <ClInclude Include="ui_tmpt.h" />
   </ItemGroup>
   <ItemGroup>

@@ -37,6 +37,9 @@
     <ClCompile Include="qrc_tmpt.cpp">
       <Filter>Generated Files</Filter>
     </ClCompile>
+    <ClCompile Include="Device.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="tmpt.h">
@@ -52,6 +55,9 @@
   <ItemGroup>
     <ClInclude Include="ui_tmpt.h">
       <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Device.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

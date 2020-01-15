@@ -12,6 +12,8 @@ public:
 	tmpT(QWidget *parent = 0);
 	~tmpT();
 
+	void setGUI(void);
+
 private:
 	Ui::tmpTClass ui;
 };
